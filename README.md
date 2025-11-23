@@ -3,7 +3,7 @@
 <div align=center>
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:xlffm3@gmail.com)](mailto:minseok1061@gmail.com)
-[![Github Badge](http://img.shields.io/badge/-Dev%20Blog-181717?style=flat&logo=github&link=https://xlffm3.github.io)](https://dev-jeremy.vercel.app/posts)
+[![Github Badge](https://img.shields.io/badge/portfolio-8A2BE2)](https://dev-jeremy.vercel.app)
 
 </div>
 
